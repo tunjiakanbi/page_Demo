@@ -15,7 +15,11 @@ font-family: 'Rampart One', cursive;
 
 #content {
   color: #fff;
-  height: 100vh;
+  height: calc(100vh - 56px);
   background-color: blue;
+}
+
+.myNav {
+  background-color: blue !important;
 }
 /*# sourceMappingURL=style.css.map */

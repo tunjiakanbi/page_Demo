@@ -15,6 +15,12 @@ font-family: 'Rampart One', cursive;
 }
 #content {
   color: #fff;
-  height: 100vh;
+  height: calc(100vh - 56px);
   background-color: blue;
+}
+// .bg-dark {
+//     background-color: blue !important;
+// }
+.myNav {
+    background-color: blue !important; //;
 }
